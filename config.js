@@ -9,6 +9,3 @@ window._config = {
         // sfklsdfnpsdkvlmna
     }
 };
-
-
-
